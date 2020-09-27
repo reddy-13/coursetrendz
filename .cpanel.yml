@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/greddyin/public_html/coursetrendz.xyz/
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R . $DEPLOYPATH
