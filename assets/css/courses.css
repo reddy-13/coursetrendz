@@ -1,0 +1,16 @@
+#banner {
+    background: linear-gradient(to left, rgba(39, 39, 39, 0.568), rgba(19, 13, 17, 0.73)), url("../images/coursetrendz_courses_banner.jpg") no-repeat center center;
+    background-size: cover;
+
+}
+
+.content ul {
+    list-style: none !important;
+}
+
+.courseCard {
+    font-size: 15px;
+    line-height: 1.43;
+    color: #29303b;
+    width: 230px;
+}
